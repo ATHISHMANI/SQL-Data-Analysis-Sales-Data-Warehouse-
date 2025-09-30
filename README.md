@@ -69,3 +69,16 @@ The repository includes **12 SQL modules**, each addressing a different aspect o
   - Detected **sales recency** and customer lifecycle metrics.  
 
 ---
+
+## 📊 Customer & Product Reports
+
+- **Customer Report:**
+
+<img width="800" height="465" alt="Screenshot 2025-09-29 at 10 46 12 PM" src="https://github.com/user-attachments/assets/16393a6e-d059-44e9-b79f-6656d10db532" />
+
+- **Product Report:**
+<img width="800" height="434" alt="Screenshot 2025-09-29 at 10 45 47 PM" src="https://github.com/user-attachments/assets/c8d27659-408c-41a0-90b2-3615da4f807f" />
+
+  
+
+
