@@ -12,14 +12,7 @@ The output is a set of well-documented SQL scripts and **reporting views** that 
 
 ---
 
-## 🎯 Business Problem  
-Retailers often struggle to:  
-- Understand customer demographics and segment them effectively.  
-- Track sales performance across products, categories, and regions.  
-- Measure trends and performance changes over time.  
-- Identify top-performing and underperforming products/customers.  
-- Compare contributions of different categories to overall revenue.  
-
+## 🎯 Business Problem    
 This project solves these challenges by creating **reusable SQL reports** that answer key business questions such as:  
 - Who are our VIP customers?  
 - Which product categories generate the most revenue?  
