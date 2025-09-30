@@ -36,7 +36,7 @@ The repository includes **12 SQL modules**, each addressing a different aspect o
 8. **Performance Analysis** – Year-over-year product sales comparisons, benchmarking against averages, and detecting increases/decreases.  
 9. **Data Segmentation** – Customer segmentation into *VIP, Regular, New* and product segmentation into cost ranges.  
 10. **Part-to-Whole Analysis** – Understanding contribution of categories to overall revenue (e.g., % of sales per category).  
-11. **Customer Report View** – A consolidated customer report with age groups, segments, recency, lifetime value, average order value, and monthly spend.  
+11. **Customer Report View** – A consolidated customer report with age groups, segments, recency, lifetime value, average order value, and monthly spend.
 12. **Product Report View** – A consolidated product report with product segments, performance tiers, recency, average order revenue, and monthly revenue.  
 
 ---
@@ -69,10 +69,3 @@ The repository includes **12 SQL modules**, each addressing a different aspect o
   - Detected **sales recency** and customer lifecycle metrics.  
 
 ---
-
-## 🚀 How to Use  
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/<your-username>/retail-sql-analytics.git
-   cd retail-sql-analytics
