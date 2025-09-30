@@ -1,10 +1,7 @@
 # 🛒 Retail Sales Data Warehouse – SQL Analytics Project  
 
 ## 📌 Project Overview  
-This project demonstrates **end-to-end SQL-based analytics** on a simulated **retail sales data warehouse**.  
-The business challenge addressed is:  
-
-> *"How can a retail company gain actionable insights into its customers, products, and sales performance to improve decision-making, marketing, and operations?"*  
+This project demonstrates **end-to-end SQL-based analytics** on a **retail sales data warehouse**.  
 
 Using a **star schema** with `fact_sales` and supporting dimension tables (`dim_customers`, `dim_products`), this project applies a wide range of SQL techniques to explore, aggregate, and analyze data.  
 
